@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EFFE44A1-0F87-447A-B046-73D08EF53A9C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B6E3503-4CCB-4D6B-973A-ABCFF640C4CF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BDF99744-A66C-45A1-ACFD-794B5672B3F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchListBuilder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "init(view:viewModel:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6CB33C09-9C9B-40F2-8162-E11C62189336"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchListBuilder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "build(flowCoordinator:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58DF0F05-3A3F-40D3-94AB-38BB1259A04D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230925-Nikhil-Chawade-Chase/Presentation/Utility/WeatherFlowCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "start()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1EB2C079-8A59-4277-B3FF-977E86BA67A9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8954D73D-F656-4649-BFF1-C14151D8AD29"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04404695-C330-4298-8DF5-4EB5528B564A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230925-Nikhil-Chawade-Chase/Presentation/Utility/WeatherFlowCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "start()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2E2B702-013B-4223-A2B5-540B7A884610"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "SearchViewModelContract"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70E91F80-2B31-4B89-AC8B-EEF6E62F7758"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230925-Nikhil-Chawade-Chase/Presentation/Utility/StoryboardInstantiable.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "instantiateViewController(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE2D1CDB-54FE-4FE7-B20F-FA070661BDC0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230925-Nikhil-Chawade-Chase/Presentation/Utility/StoryboardInstantiable.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "instantiateViewController(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14F13823-ED8D-410A-83E9-46C311555D05"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "SearchListViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "14F13823-ED8D-410A-83E9-46C311555D05 - c2a2d8673d8fcf24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for storyboardName"
+                  moduleName = "20230925-Nikhil-Chawade-Chase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil.chawade/Documents/20230925-Nikhil-Chawade-Chase/20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "14F13823-ED8D-410A-83E9-46C311555D05 - ee7480297375173f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230925_Nikhil_Chawade_Chase.SearchListViewController.storyboardName.unsafeMutableAddressor : Swift.String"
+                  moduleName = "20230925-Nikhil-Chawade-Chase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil.chawade/Documents/20230925-Nikhil-Chawade-Chase/20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "14F13823-ED8D-410A-83E9-46C311555D05 - ac9cea02529d3ea5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static _0230925_Nikhil_Chawade_Chase.SearchListViewController.storyboardName.getter : Swift.String"
+                  moduleName = "20230925-Nikhil-Chawade-Chase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil.chawade/Documents/20230925-Nikhil-Chawade-Chase/20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "14F13823-ED8D-410A-83E9-46C311555D05 - 2ef15a96be2e6ef9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static _0230925_Nikhil_Chawade_Chase.SearchListViewController.storyboardName.setter : Swift.String"
+                  moduleName = "20230925-Nikhil-Chawade-Chase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil.chawade/Documents/20230925-Nikhil-Chawade-Chase/20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "14F13823-ED8D-410A-83E9-46C311555D05 - efe93ca334711ab6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static _0230925_Nikhil_Chawade_Chase.SearchListViewController.storyboardName.modify : Swift.String"
+                  moduleName = "20230925-Nikhil-Chawade-Chase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil.chawade/Documents/20230925-Nikhil-Chawade-Chase/20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "14F13823-ED8D-410A-83E9-46C311555D05 - 72b758c4bc0689b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static _0230925_Nikhil_Chawade_Chase.SearchListViewController.storyboardName.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "20230925-Nikhil-Chawade-Chase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil.chawade/Documents/20230925-Nikhil-Chawade-Chase/20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04729EAF-7804-43AC-8468-0263B038B771"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230925-Nikhil-Chawade-Chase/Presentation/Utility/BaseViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6784FB68-C9B5-4B3C-A2CF-2ACD5A985208"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "searchText(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6784FB68-C9B5-4B3C-A2CF-2ACD5A985208 - 9b6b43cf8947efdd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Optional&lt;_0230925_Nikhil_Chawade_Chase.WeatherInformationModel&gt;, Swift.Error&gt;) -&gt; () in _0230925_Nikhil_Chawade_Chase.SearchListViewModel.searchText(text: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "20230925-Nikhil-Chawade-Chase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil.chawade/Documents/20230925-Nikhil-Chawade-Chase/20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "6784FB68-C9B5-4B3C-A2CF-2ACD5A985208 - 9b6b43cf8947efdd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Optional&lt;_0230925_Nikhil_Chawade_Chase.WeatherInformationModel&gt;, Swift.Error&gt;) -&gt; () in _0230925_Nikhil_Chawade_Chase.SearchListViewModel.searchText(text: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "20230925-Nikhil-Chawade-Chase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil.chawade/Documents/20230925-Nikhil-Chawade-Chase/20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D05CED8B-2D11-476A-9EF6-322EF6F16C13"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230925-Nikhil-Chawade-Chase/Data/Service/WeatherUsecase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getWeatherDetailsForCity(cityName:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D05CED8B-2D11-476A-9EF6-322EF6F16C13 - 55f5142054846751"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230925_Nikhil_Chawade_Chase.WeatherUsecase.getWeatherDetailsForCity(cityName: Swift.String, completion: (Swift.Result&lt;Swift.Optional&lt;_0230925_Nikhil_Chawade_Chase.WeatherInformationModel&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "20230925-Nikhil-Chawade-Chase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil.chawade/Documents/20230925-Nikhil-Chawade-Chase/20230925-Nikhil-Chawade-Chase/Data/Service/WeatherUsecase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "D05CED8B-2D11-476A-9EF6-322EF6F16C13 - 2cfe97f96d8d0cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;_0230925_Nikhil_Chawade_Chase.WeatherInformationModel&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in _0230925_Nikhil_Chawade_Chase.WeatherUsecase.getWeatherDetailsForCity(cityName: Swift.String, completion: (Swift.Result&lt;Swift.Optional&lt;_0230925_Nikhil_Chawade_Chase.WeatherInformationModel&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "20230925-Nikhil-Chawade-Chase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil.chawade/Documents/20230925-Nikhil-Chawade-Chase/20230925-Nikhil-Chawade-Chase/Data/Service/WeatherUsecase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "782C3F1F-FB78-4F98-B277-73157010B7C6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230925-Nikhil-Chawade-Chase/Data/Service/WeatherUsecase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getWeatherDetailsForCity(cityName:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CBCCEDF0-1E3E-4D19-9769-BF8A146C4DE2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230925-Nikhil-Chawade-Chase/Data/Service/WeatherUsecase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getWeatherDetailsForCity(cityName:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "523A450E-2C9C-4E2D-B72B-CA6A403185F3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230925-Nikhil-Chawade-Chase/Data/Service/APIProvider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fetchDataForCity(cityName:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "958D4DE8-5A8E-404E-8FA0-5EA4C2211FE5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230925-Nikhil-Chawade-Chase/Data/Service/APIProvider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "fetchDataForCity(cityName:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86CFDEFB-A9E3-40AB-A768-5CE71D60830B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "searchText(text:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D910ABFA-370F-466A-9F54-CE9C0DD47A6D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "searchText(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D910ABFA-370F-466A-9F54-CE9C0DD47A6D - d4e0a9a4bd28b346"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230925_Nikhil_Chawade_Chase.SearchListViewModel.searchText(text: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "20230925-Nikhil-Chawade-Chase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil.chawade/Documents/20230925-Nikhil-Chawade-Chase/20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "D910ABFA-370F-466A-9F54-CE9C0DD47A6D - d4e0a9a4bd28b346"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230925_Nikhil_Chawade_Chase.SearchListViewModel.searchText(text: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "20230925-Nikhil-Chawade-Chase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil.chawade/Documents/20230925-Nikhil-Chawade-Chase/20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "171C826F-FB0E-401C-AF00-646700D1D769"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "searchText(text:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "689779E8-5A11-4809-A6C7-274AF536CFCC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "SearchViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "689779E8-5A11-4809-A6C7-274AF536CFCC - 73dca513b16d8e5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for storyboardName"
+                  moduleName = "20230925-Nikhil-Chawade-Chase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil.chawade/Documents/20230925-Nikhil-Chawade-Chase/20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "689779E8-5A11-4809-A6C7-274AF536CFCC - 72b704a920a06d89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230925_Nikhil_Chawade_Chase.SearchViewController.storyboardName.unsafeMutableAddressor : Swift.String"
+                  moduleName = "20230925-Nikhil-Chawade-Chase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil.chawade/Documents/20230925-Nikhil-Chawade-Chase/20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "689779E8-5A11-4809-A6C7-274AF536CFCC - 63a83eacea85da9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static _0230925_Nikhil_Chawade_Chase.SearchViewController.storyboardName.getter : Swift.String"
+                  moduleName = "20230925-Nikhil-Chawade-Chase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil.chawade/Documents/20230925-Nikhil-Chawade-Chase/20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "689779E8-5A11-4809-A6C7-274AF536CFCC - 6d951816daecb68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static _0230925_Nikhil_Chawade_Chase.SearchViewController.storyboardName.setter : Swift.String"
+                  moduleName = "20230925-Nikhil-Chawade-Chase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil.chawade/Documents/20230925-Nikhil-Chawade-Chase/20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "689779E8-5A11-4809-A6C7-274AF536CFCC - 38e04ec52c96f69f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static _0230925_Nikhil_Chawade_Chase.SearchViewController.storyboardName.modify : Swift.String"
+                  moduleName = "20230925-Nikhil-Chawade-Chase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil.chawade/Documents/20230925-Nikhil-Chawade-Chase/20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "689779E8-5A11-4809-A6C7-274AF536CFCC - 9157eb22869d68d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static _0230925_Nikhil_Chawade_Chase.SearchViewController.storyboardName.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "20230925-Nikhil-Chawade-Chase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil.chawade/Documents/20230925-Nikhil-Chawade-Chase/20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3DB352EB-0FEA-4B4B-AE38-7C1EEBF74EDB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "searchText(text:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D087339A-BBCF-43BB-8E0E-D6220015765C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "renderData(model:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7693E74F-34F8-44B1-9A62-14C5AB1F8EC5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230925-Nikhil-Chawade-Chase/Presentation/SearchList/SearchListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "fetchWeatherIcon()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
